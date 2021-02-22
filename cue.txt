@@ -1,0 +1,63 @@
+
+REM File created by SACD Extract, version: 0.3.9.3-89-ga337cb3d83e2f934743a699e1606c47df1f1dfd8
+REM GENRE Rock Music
+REM DATE 2017-04-01
+PERFORMER "Billy Joel"
+TITLE "Billy Joel Greatest Hits Volume 1"
+CATALOG UDSACD 2-2121
+FILE "Billy Joel Greatest Hits Volume 1.dff" WAVE
+  TRACK 01 AUDIO
+      TITLE "Piano Man"
+      PERFORMER "Billy Joel"
+      INDEX 00 00:00:00
+      INDEX 01 00:02:00
+  TRACK 02 AUDIO
+      TITLE "Captain Jack"
+      PERFORMER "Billy Joel"
+      INDEX 00 05:39:19
+      INDEX 01 05:42:01
+  TRACK 03 AUDIO
+      TITLE "The Entertainer"
+      PERFORMER "Billy Joel"
+      INDEX 00 12:40:31
+      INDEX 01 12:43:13
+  TRACK 04 AUDIO
+      TITLE "Say Goodbye To Hollywood"
+      PERFORMER "Billy Joel"
+      INDEX 00 16:23:05
+      INDEX 01 16:25:24
+  TRACK 05 AUDIO
+      TITLE "New York State Of Mind"
+      PERFORMER "Billy Joel"
+      INDEX 00 21:01:10
+      INDEX 01 21:04:67
+  TRACK 06 AUDIO
+      TITLE "The Stranger"
+      PERFORMER "Billy Joel"
+      INDEX 00 27:08:39
+      INDEX 01 27:11:21
+  TRACK 07 AUDIO
+      TITLE "Scenes From An Italian Restaurant"
+      PERFORMER "Billy Joel"
+      INDEX 00 32:19:04
+      INDEX 01 32:21:31
+  TRACK 08 AUDIO
+      TITLE "Just The Way You Are"
+      PERFORMER "Billy Joel"
+      INDEX 00 39:54:55
+      INDEX 01 39:57:37
+  TRACK 09 AUDIO
+      TITLE "Movin' Out (Anthony's Song)"
+      PERFORMER "Billy Joel"
+      INDEX 00 44:46:69
+      INDEX 01 44:49:51
+  TRACK 10 AUDIO
+      TITLE "Only The Good Die Young"
+      PERFORMER "Billy Joel"
+      INDEX 00 48:18:18
+      INDEX 01 48:21:00
+  TRACK 11 AUDIO
+      TITLE "She's Always A Woman"
+      PERFORMER "Billy Joel"
+      INDEX 00 52:13:35
+      INDEX 01 52:16:55
