@@ -36,7 +36,6 @@ data Line  = Track
            | Other
              deriving Show
 
--- Foobar gap length
 data Foobar = Foobar Time Time  -- gap, length
               deriving Show
 
