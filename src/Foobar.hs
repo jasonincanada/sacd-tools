@@ -14,7 +14,6 @@ foobar file = do
   cue <- readFile file
 
   cue & lines                     -- split file into lines
-      & map (dropWhile (==' '))   -- trim leading spaces
       & map words                 -- split lines into words
       & map parse                 -- convert each to its Line object
       & filter useful             -- keep only the ones we want
