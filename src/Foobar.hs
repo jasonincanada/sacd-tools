@@ -39,7 +39,7 @@ data Line  = Track
 data Foobar = Foobar Time Time  -- gap, length
               deriving Show
 
-data Time   = Time Int Int Int -- min, sec, frame
+data Time   = Time Int Int Int  -- min, sec, frame
               deriving Eq
 
 instance Show Time where
