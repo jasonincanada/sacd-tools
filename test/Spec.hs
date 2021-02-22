@@ -1,5 +1,5 @@
 import Test.Hspec
-import Cue
+import Foobar
 
 main :: IO ()
 main = hspec $ do

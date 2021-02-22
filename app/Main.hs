@@ -1,6 +1,6 @@
 module Main where
 
-import Cue
+import Foobar
 
 main :: IO ()
 main = do

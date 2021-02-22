@@ -1,4 +1,4 @@
-name:                cue
+name:                sacd-tools
 version:             0.1.0.0
 github:              "githubuser/sacd-tools"
 license:             BSD3
@@ -27,7 +27,7 @@ library:
   source-dirs: src
 
 executables:
-  cue-exe:
+  sacd-tools-exe:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
@@ -35,10 +35,10 @@ executables:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-    - cue
+    - sacd-tools
 
 tests:
-  cue-test:
+  sacd-tools-test:
     main:                Spec.hs
     source-dirs:         test
     ghc-options:
@@ -46,4 +46,4 @@ tests:
     - -rtsopts
     - -with-rtsopts=-N
     dependencies:
-    - cue
+    - sacd-tools

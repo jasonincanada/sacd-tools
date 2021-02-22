@@ -1,6 +1,6 @@
-{- Cue.hs - convert a UDSACD files to foobar format -}
+{- Foobar.hs - convert a UDSACD files to foobar format -}
 
-module Cue where
+module Foobar where
 
 import Data.Function    ((&))
 import Data.List.Split  (chunksOf, splitOn)
